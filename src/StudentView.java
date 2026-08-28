@@ -1,0 +1,1 @@
+public class StudentView { public void displayStudentDetails(int id, String name, String email) { System.out.println("ID: " + id); System.out.println("Nombre: " + name); System.out.println("Correo: " + email); } } 
